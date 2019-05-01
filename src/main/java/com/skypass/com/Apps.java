@@ -4,7 +4,7 @@ package com.skypass.com;
  * Hello world!
  *
  */
-public class App 
+public class Apps
 {
     public static void main( String[] args )
     {
